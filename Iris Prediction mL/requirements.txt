@@ -1,5 +1,0 @@
-flask
-flask-material
-numpy
-scikit-learn
-pandas
